@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="RealSkeet">
+      <UniqueIdentifier>{3dd5c665-9033-46bf-a0d0-bbc5243fb48d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExePrj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_InitData.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_data.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_rdata.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_retard0.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_retard1.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_text.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+    <ClCompile Include="RealSkeet_vmpdmp.cpp">
+      <Filter>RealSkeet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RealSkeet.h">
+      <Filter>RealSkeet</Filter>
+    </ClInclude>
+    <ClInclude Include="RealSkeet_data.h">
+      <Filter>RealSkeet</Filter>
+    </ClInclude>
+    <ClInclude Include="RealSkeet_rdata.h">
+      <Filter>RealSkeet</Filter>
+    </ClInclude>
+    <ClInclude Include="RealSkeet_retard0.h">
+      <Filter>RealSkeet</Filter>
+    </ClInclude>
+    <ClInclude Include="RealSkeet_text.h">
+      <Filter>RealSkeet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RealSkeet.def">
+      <Filter>RealSkeet</Filter>
+    </None>
+  </ItemGroup>
+</Project>
