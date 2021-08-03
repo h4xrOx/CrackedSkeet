@@ -1,4 +1,4 @@
-# CrackedSkeet<a name="-1"></a>
+# CrackedSkeet<a name="-1"></a> https://discord.gg/ZXuu6vdg85
 
 # Infinite JavaScript API
 
